@@ -1,0 +1,6 @@
+/var/lib/slurm/slurmd/job217358/slurm_script: Zeile 14: import: Befehl nicht gefunden
+/var/lib/slurm/slurmd/job217358/slurm_script: Zeile 15: import: Befehl nicht gefunden
+/var/lib/slurm/slurmd/job217358/slurm_script: Zeile 16: import: Befehl nicht gefunden
+/var/lib/slurm/slurmd/job217358/slurm_script: Zeile 17: import: Befehl nicht gefunden
+/var/lib/slurm/slurmd/job217358/slurm_script: Zeile 20: Syntaxfehler beim unerwarteten Wort »(«
+/var/lib/slurm/slurmd/job217358/slurm_script: Zeile 20: `parser = argparse.ArgumentParser(description='Plot the speed of the program, the format should be: program cores dataset time, separated by a space')'

@@ -1,0 +1,1771 @@
+BLASTN 2.12.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: 100.fa
+           100 sequences; 60,830 total letters
+
+
+
+Query= MK066680;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,
+f:Linaceae,g:Linum,s:Linum_alpinum;
+
+Length=580
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+MK066680;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Lina...  1072    0.0  
+KC779789;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  291     8e-81
+KC779790;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  291     8e-81
+AF467049;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  285     4e-79
+EU927609;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  285     4e-79
+KC779787;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  285     4e-79
+HM468335;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  278     6e-77
+JQ042905;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  278     6e-77
+JQ042906;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  278     6e-77
+JQ042907;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  278     6e-77
+AF218533;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  278     6e-77
+AF450227;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  278     6e-77
+AF467051;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+AF467477;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+KR532399;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+KR532400;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+KR532401;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+KR532402;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+KM983253;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+LC213371;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+KX057883;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-74
+AF187085;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  267     1e-73
+AF467040;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  265     5e-73
+AF521717;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  265     5e-73
+HG424079;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Orobanch...  265     5e-73
+KX506770;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Scrophul...  259     2e-71
+KX506771;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Scrophul...  259     2e-71
+AF467484;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  257     8e-71
+EF517832;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  257     8e-71
+JN575408;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Lamiacea...  255     3e-70
+AF467055;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  254     1e-69
+AF467056;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  254     1e-69
+AF467057;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  254     1e-69
+AF467022;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  252     4e-69
+AF467487;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  252     4e-69
+AF467488;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  252     4e-69
+AF189025;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  252     4e-69
+KX652254;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  252     4e-69
+KX982513;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,...  248     5e-68
+MH377862;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,...  248     5e-68
+MK050087;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,...  248     5e-68
+JX124498;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  246     2e-67
+KT833972;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  244     6e-67
+KT833973;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  244     6e-67
+KT833974;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  244     6e-67
+KT833975;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  244     6e-67
+AF467021;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  243     2e-66
+JF786889;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786893;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786895;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786899;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786900;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786957;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786958;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786965;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF786990;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JF787030;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  243     2e-66
+JX506446;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  243     2e-66
+KU902491;tax=k:Viridiplantae,p:Streptophyta,o:Sapindales,f:Sapind...  241     8e-66
+JF786894;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Ca...  237     1e-64
+HG004762;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Hype...  235     4e-64
+HG004769;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Hype...  235     4e-64
+HM010406;tax=k:Viridiplantae,p:Streptophyta,o:Santalales,f:Lorant...  233     1e-63
+AF187084;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  231     5e-63
+HG004761;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Hype...  231     5e-63
+KY661726;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  231     5e-63
+HQ331424;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Zingib...  230     2e-62
+KU883492;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales...  230     2e-62
+KX873017;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales...  230     2e-62
+KX873018;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales...  230     2e-62
+KX873019;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales...  230     2e-62
+HM010957;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Aspara...  228     6e-62
+HM010961;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Aspara...  228     6e-62
+KY661725;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  226     2e-61
+HM010956;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Aspara...  222     3e-60
+JX464296;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Aspara...  222     3e-60
+KF718383;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  207     8e-56
+HM014437;tax=k:Viridiplantae,p:Streptophyta,o:Solanales,f:Convolv...  193     2e-51
+KC779788;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  84.2    1e-18
+
+
+>MK066680;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Linaceae,g:Linum,s:Linum_alpinum;
+Length=580
+
+ Score = 1072 bits (580),  Expect = 0.0
+ Identities = 580/580 (100%), Gaps = 0/580 (0%)
+ Strand=Plus/Plus
+
+Query  1    AATGACCAGCGAACTTGTTGTTAAATGCGGGGGAGGCTGATGTTTGGTGTGCCCTAGGTC  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    AATGACCAGCGAACTTGTTGTTAAATGCGGGGGAGGCTGATGTTTGGTGTGCCCTAGGTC  60
+
+Query  61   CACCACGCGAAGGCCTGCCTCGCTCGGCGGGGGTTTGACCACCATGTCATGCCTCCGCCA  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CACCACGCGAAGGCCTGCCTCGCTCGGCGGGGGTTTGACCACCATGTCATGCCTCCGCCA  120
+
+Query  121  CAAACTAACAAACCCCGGCGCGGAATGCGCCAAGGAATACTACGAGTGACGACCCGTCAT  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  CAAACTAACAAACCCCGGCGCGGAATGCGCCAAGGAATACTACGAGTGACGACCCGTCAT  180
+
+Query  181  GTGCCCGGTCACGGTGTGCAGGATGGAGCGACCCACCAACTTTTAAATAGAATAATGACT  240
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  181  GTGCCCGGTCACGGTGTGCAGGATGGAGCGACCCACCAACTTTTAAATAGAATAATGACT  240
+
+Query  241  CTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTTG  300
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  241  CTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTTG  300
+
+Query  301  GTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGCC  360
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  301  GTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGCC  360
+
+Query  361  ATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCAAAATTGG  420
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  361  ATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCAAAATTGG  420
+
+Query  421  GAAGGTGCGGATTCTGGCCTCCCAGTGGCTCTAAGTAGCCTATCGGATGGCCGAAATGAA  480
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421  GAAGGTGCGGATTCTGGCCTCCCAGTGGCTCTAAGTAGCCTATCGGATGGCCGAAATGAA  480
+
+Query  481  AGTCGTCGGCAAGAGACGCCACGGTGAGCTGTGGTTGAAACGACACTATGGTCTTTTAGC  540
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  481  AGTCGTCGGCAAGAGACGCCACGGTGAGCTGTGGTTGAAACGACACTATGGTCTTTTAGC  540
+
+Query  541  CGTGGTTGCTCCCTTGGCCGACGAAATTACGATGGACCAT  580
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  CGTGGTTGCTCCCTTGGCCGACGAAATTACGATGGACCAT  580
+
+
+>KC779789;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Galactia,s:Galactia_striata;
+Length=779
+
+ Score = 291 bits (157),  Expect = 8e-81
+ Identities = 167/172 (97%), Gaps = 0/172 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  333  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCAAAATGCG  392
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  393  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  452
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCC  405
+            |||| ||||| ||||||||||||||||||||||||||||||||| || ||||
+Sbjct  453  TGAAACCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACAATGTTGCCC  504
+
+
+>KC779790;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Galactia,s:Galactia_striata;
+Length=861
+
+ Score = 291 bits (157),  Expect = 8e-81
+ Identities = 167/172 (97%), Gaps = 0/172 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  371  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCAAAATGCG  430
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  431  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  490
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCC  405
+            |||| ||||| ||||||||||||||||||||||||||||||||| || ||||
+Sbjct  491  TGAAACCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACAATGTTGCCC  542
+
+
+>AF467049;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Galactia,s:Galactia_striata;
+Length=634
+
+ Score = 285 bits (154),  Expect = 4e-79
+ Identities = 166/172 (97%), Gaps = 0/172 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  239  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCAAAATGCG  298
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  299  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  358
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCC  405
+            |||| ||||| ||||||||||||||||||||||||||||||||| || ||||
+Sbjct  359  TGAAACCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACAATGTTGCCC  410
+
+
+>EU927609;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Galactia,s:Galactia_striata;
+Length=620
+
+ Score = 285 bits (154),  Expect = 4e-79
+ Identities = 166/172 (97%), Gaps = 0/172 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  238  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCAAAATGCG  297
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  298  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  357
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCC  405
+            |||| ||||| ||||||||||||||||||||||||||||||||| || ||||
+Sbjct  358  TGAAACCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACAATGTTGCCC  409
+
+
+>KC779787;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Galactia,s:Galactia_striata;
+Length=794
+
+ Score = 285 bits (154),  Expect = 4e-79
+ Identities = 166/172 (97%), Gaps = 0/172 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  321  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCAAAATGCG  380
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  381  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  440
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCC  405
+            |||| ||||| ||||||||||||||||||||||||||||||||| || ||||
+Sbjct  441  TGAAACCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACAATGTTGCCC  492
+
+
+>HM468335;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Ornithopus,s:Ornithopus_compressus;
+Length=618
+
+ Score = 278 bits (150),  Expect = 6e-77
+ Identities = 160/165 (97%), Gaps = 0/165 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  240  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATG  299
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  300  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  359
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            || || |||||| ||||||||||||||||||||||||||||||||
+Sbjct  360  CCCGATGCCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  404
+
+
+>JQ042905;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Ornithopus,s:Ornithopus_compressus;
+Length=595
+
+ Score = 278 bits (150),  Expect = 6e-77
+ Identities = 160/165 (97%), Gaps = 0/165 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  217  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATG  276
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  277  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  336
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            || || |||||| ||||||||||||||||||||||||||||||||
+Sbjct  337  CCCGATGCCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  381
+
+
+>JQ042906;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Ornithopus,s:Ornithopus_compressus;
+Length=596
+
+ Score = 278 bits (150),  Expect = 6e-77
+ Identities = 160/165 (97%), Gaps = 0/165 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  218  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATG  277
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  278  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  337
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            || || |||||| ||||||||||||||||||||||||||||||||
+Sbjct  338  CCCGATGCCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  382
+
+
+>JQ042907;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Ornithopus,s:Ornithopus_compressus;
+Length=595
+
+ Score = 278 bits (150),  Expect = 6e-77
+ Identities = 160/165 (97%), Gaps = 0/165 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  217  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATG  276
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  277  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  336
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            || || |||||| ||||||||||||||||||||||||||||||||
+Sbjct  337  CCCGATGCCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  381
+
+
+>AF218533;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Ornithopus,s:Ornithopus_compressus;
+Length=618
+
+ Score = 278 bits (150),  Expect = 6e-77
+ Identities = 160/165 (97%), Gaps = 0/165 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  240  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATG  299
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  300  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  359
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            || || |||||| ||||||||||||||||||||||||||||||||
+Sbjct  360  CCCGATGCCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  404
+
+
+>AF450227;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Ornithopus,s:Ornithopus_compressus;
+Length=618
+
+ Score = 278 bits (150),  Expect = 6e-77
+ Identities = 160/165 (97%), Gaps = 0/165 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  240  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATG  299
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  300  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  359
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            || || |||||| ||||||||||||||||||||||||||||||||
+Sbjct  360  CCCGATGCCATTAGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  404
+
+
+>AF467051;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Indigofera,s:Indigofera_suffruticosa;
+Length=634
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  239  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  298
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  299  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  358
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||||||||||||| ||||||||||||||||||
+Sbjct  359  CGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCACACA  401
+
+
+>AF467477;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Millettia,s:Millettia_leptobotrya;
+Length=623
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  232  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  291
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  292  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  351
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||||||||||||| ||||||||||||||||||
+Sbjct  352  CGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCACACA  394
+
+
+>KR532399;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Millettia,s:Millettia_leptobotrya;
+Length=485
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  2    AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  61
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  62   ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  121
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||||||||||||| ||||||||||||||||||
+Sbjct  122  CGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCACACA  164
+
+
+>KR532400;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Millettia,s:Millettia_leptobotrya;
+Length=485
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  2    AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  61
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  62   ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  121
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||||||||||||| ||||||||||||||||||
+Sbjct  122  CGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCACACA  164
+
+
+>KR532401;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Millettia,s:Millettia_leptobotrya;
+Length=485
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  2    AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  61
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  62   ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  121
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||||||||||||| ||||||||||||||||||
+Sbjct  122  CGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCACACA  164
+
+
+>KR532402;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Millettia,s:Millettia_leptobotrya;
+Length=485
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  2    AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  61
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  62   ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  121
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||||||||||||| ||||||||||||||||||
+Sbjct  122  CGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCACACA  164
+
+
+>KM983253;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Indigofera,s:Indigofera_suffruticosa;
+Length=600
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  231  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  290
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  291  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  350
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||||||||||||| ||||||||||||||||||
+Sbjct  351  CGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCACACA  393
+
+
+>LC213371;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Oxytropis,s:Oxytropis_jacquinii;
+Length=603
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||| |||||| |||||||||||||||||||| |||||
+Sbjct  228  ATAATGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACGTAGCGAAATG  287
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  288  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  347
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACA  394
+            || ||||||||||||||||||||||||||||||||| ||||||
+Sbjct  348  CCCGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGCGTCACA  390
+
+
+>KX057883;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Indigofera,s:Indigofera_suffruticosa;
+Length=707
+
+ Score = 268 bits (145),  Expect = 4e-74
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  306  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  365
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  366  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  425
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            |||||||||| ||||||||||||| |||||||||||||| |||
+Sbjct  426  TGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCAAACA  468
+
+
+>AF187085;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Myrospermum,s:Myrospermum_frutescens;
+Length=643
+
+ Score = 267 bits (144),  Expect = 1e-73
+ Identities = 164/174 (94%), Gaps = 0/174 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  238  ATAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATG  297
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  298  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  357
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCC  405
+            || ||||||||| ||  ||||||||||||||||||| ||||||||| || ||||
+Sbjct  358  CCCGAAGCCATTAGGCCGAGGGCACGTCTGCCTGGGCGTCACACAACGTTGCCC  411
+
+
+>AF467040;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Cyamopsis,s:Cyamopsis_senegalensis;
+Length=633
+
+ Score = 265 bits (143),  Expect = 5e-73
+ Identities = 163/173 (94%), Gaps = 0/173 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  242  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  301
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  302  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  361
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCT  406
+             ||||||||| || |||||||||| ||||||||||||||||||  || |||||
+Sbjct  362  CGAAGCCATTAGGCTGAGGGCACGCCTGCCTGGGTGTCACACATCGTTGCCCT  414
+
+
+>AF521717;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Cyamopsis,s:Cyamopsis_senegalensis;
+Length=678
+
+ Score = 265 bits (143),  Expect = 5e-73
+ Identities = 163/173 (94%), Gaps = 0/173 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  268  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  327
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  328  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  387
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCT  406
+             ||||||||| || |||||||||| ||||||||||||||||||  || |||||
+Sbjct  388  CGAAGCCATTAGGCTGAGGGCACGCCTGCCTGGGTGTCACACATCGTTGCCCT  440
+
+
+>HG424079;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Orobanchaceae,g:Pedicularis,s:Pedicularis_ascendens;
+Length=662
+
+ Score = 265 bits (143),  Expect = 5e-73
+ Identities = 231/273 (85%), Gaps = 8/273 (3%)
+ Strand=Plus/Plus
+
+Query  125  CTAACAAACCCCGGCGCGGAATGCGCCAAGGAATACT-A-CG-AGTGACGA-CCCGTCAT  180
+            ||||| ||||||||||||| ||||||||||||| ||| |  | || | ||| | |  |||
+Sbjct  139  CTAACGAACCCCGGCGCGGCATGCGCCAAGGAAAACTCATAGAAGCGTCGATCTCC-CAT  197
+
+Query  181  GTGCCCGGTCACGGTGTGCAGGATGGAGCGACCCACCAACTTTTAAATAGAATAATGACT  240
+               |||| || |||||| | || ||| |  ||  | |  || |  |||   |||| ||||
+Sbjct  198  CGCCCCGTTCGCGGTGTTC-GG-TGGGGGAACTGA-CGTCTCTCCAATGTCATAACGACT  254
+
+Query  241  CTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTTG  300
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  255  CTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATACTTG  314
+
+Query  301  GTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGCC  360
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||||||
+Sbjct  315  GTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCC  374
+
+Query  361  ATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            ||| || |||||||||||||||||||| |||||
+Sbjct  375  ATTCGGCTGAGGGCACGTCTGCCTGGGCGTCAC  407
+
+
+>KX506770;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Scrophulariaceae,g:Verbascum,s:Verbascum_lychnitis;
+Length=622
+
+ Score = 259 bits (140),  Expect = 2e-71
+ Identities = 231/274 (84%), Gaps = 9/274 (3%)
+ Strand=Plus/Plus
+
+Query  125  CTAAC-AAACCCCGGCGCGGAATGCGCCAAGGAATACT--ACG-AGTGACGACCCGTC-A  179
+            ||||| || ||||||||||| ||||||||||||| |||  ||| || | |  |||||| |
+Sbjct  116  CTAACGAACCCCCGGCGCGGCATGCGCCAAGGAAAACTCAACGAAGCGCCTCCCCGTCGA  175
+
+Query  180  TGTGCCCGGTCACGGTGTGCAGGATGGAGCGACCCACCAACTTTTAAATAGAATAATGAC  239
+            ||  |||| || ||||||||     || | |||    |  || || |||   | || |||
+Sbjct  176  TG-CCCCGTTCGCGGTGTGC---TCGGCGGGACAGTGCGTCTCTTGAATGTCAAAACGAC  231
+
+Query  240  TCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTT  299
+            |||||||||||||||||| ||||||||||||||||||||||||||| |||||||||||||
+Sbjct  232  TCTCGGCAACGGATATCTAGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATACTT  291
+
+Query  300  GGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGC  359
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  292  GGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCCGAAGC  351
+
+Query  360  CATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            |||| ||  ||||||||||||||||||| |||||
+Sbjct  352  CATTAGGCCGAGGGCACGTCTGCCTGGGCGTCAC  385
+
+
+>KX506771;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Scrophulariaceae,g:Verbascum,s:Verbascum_lychnitis;
+Length=622
+
+ Score = 259 bits (140),  Expect = 2e-71
+ Identities = 231/274 (84%), Gaps = 9/274 (3%)
+ Strand=Plus/Plus
+
+Query  125  CTAAC-AAACCCCGGCGCGGAATGCGCCAAGGAATACT--ACG-AGTGACGACCCGTC-A  179
+            ||||| || ||||||||||| ||||||||||||| |||  ||| || | |  |||||| |
+Sbjct  116  CTAACGAACCCCCGGCGCGGCATGCGCCAAGGAAAACTCAACGAAGCGCCTCCCCGTCGA  175
+
+Query  180  TGTGCCCGGTCACGGTGTGCAGGATGGAGCGACCCACCAACTTTTAAATAGAATAATGAC  239
+            ||  |||| || ||||||||     || | |||    |  || || |||   | || |||
+Sbjct  176  TG-CCCCGTTCGCGGTGTGC---TCGGCGGGACAGTGCGTCTCTTGAATGTCAAAACGAC  231
+
+Query  240  TCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTT  299
+            |||||||||||||||||| ||||||||||||||||||||||||||| |||||||||||||
+Sbjct  232  TCTCGGCAACGGATATCTAGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATACTT  291
+
+Query  300  GGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGC  359
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  292  GGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCCGAAGC  351
+
+Query  360  CATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            |||| ||  ||||||||||||||||||| |||||
+Sbjct  352  CATTAGGCCGAGGGCACGTCTGCCTGGGCGTCAC  385
+
+
+>AF467484;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Ophrestia,s:Ophrestia_radicosa;
+Length=622
+
+ Score = 257 bits (139),  Expect = 8e-71
+ Identities = 155/163 (95%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  236  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  295
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  296  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  355
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||  ||||||||| ||||||||||||||||||
+Sbjct  356  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCACACA  398
+
+
+>EF517832;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Cullen,s:Cullen_cinereum;
+Length=635
+
+ Score = 257 bits (139),  Expect = 8e-71
+ Identities = 155/163 (95%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  223  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  282
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  283  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  342
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||  ||||||||| ||||||||||||||||||
+Sbjct  343  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCACACA  385
+
+
+>JN575408;tax=k:Viridiplantae,p:Streptophyta,o:Lamiales,f:Lamiaceae,g:Teucrium,s:Teucrium_montanum;
+Length=689
+
+ Score = 255 bits (138),  Expect = 3e-70
+ Identities = 158/168 (94%), Gaps = 0/168 (0%)
+ Strand=Plus/Plus
+
+Query  226  AATAGAATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGC  285
+            ||||  |||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  284  AATACCATAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGC  343
+
+Query  286  AAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAA  345
+             ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  344  GAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAA  403
+
+Query  346  GTTGCGCCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            |||||||| ||||||||| ||  ||||||||||||||||||| |||||
+Sbjct  404  GTTGCGCCCGAAGCCATTAGGCCGAGGGCACGTCTGCCTGGGCGTCAC  451
+
+
+>AF467055;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Lonchocarpus,s:Lonchocarpus_lanceolatus;
+Length=635
+
+ Score = 254 bits (137),  Expect = 1e-69
+ Identities = 153/161 (95%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  241  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  300
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  301  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  360
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACA  394
+             ||||||||| ||  ||||||||| ||||||||||||||||
+Sbjct  361  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCACA  401
+
+
+>AF467056;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Lonchocarpus,s:Lonchocarpus_lanceolatus;
+Length=635
+
+ Score = 254 bits (137),  Expect = 1e-69
+ Identities = 153/161 (95%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  241  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  300
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  301  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  360
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACA  394
+             ||||||||| ||  ||||||||| ||||||||||||||||
+Sbjct  361  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCACA  401
+
+
+>AF467057;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Lonchocarpus,s:Lonchocarpus_lanceolatus;
+Length=635
+
+ Score = 254 bits (137),  Expect = 1e-69
+ Identities = 153/161 (95%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  241  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  300
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  301  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  360
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACA  394
+             ||||||||| ||  ||||||||| ||||||||||||||||
+Sbjct  361  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCACA  401
+
+
+>AF467022;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Brongniartia,s:Brongniartia_alamosana;
+Length=625
+
+ Score = 252 bits (136),  Expect = 4e-69
+ Identities = 154/163 (94%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  238  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  297
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  298  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  357
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||  ||||||||| ||||||||||||| ||||
+Sbjct  358  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCGCACA  400
+
+
+>AF467487;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Philenoptera,s:Philenoptera_eriocalyx;
+Length=645
+
+ Score = 252 bits (136),  Expect = 4e-69
+ Identities = 154/163 (94%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || |||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  239  AACGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  298
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  299  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  358
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||  ||||||||| ||||||||||||||||||
+Sbjct  359  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCACACA  401
+
+
+>AF467488;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Philenoptera,s:Philenoptera_laxiflora;
+Length=644
+
+ Score = 252 bits (136),  Expect = 4e-69
+ Identities = 154/163 (94%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || |||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  244  AACGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  303
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  304  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  363
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||  ||||||||| ||||||||||||||||||
+Sbjct  364  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCACACA  406
+
+
+>AF189025;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Aeschynomene,s:Aeschynomene_fascicularis;
+Length=621
+
+ Score = 252 bits (136),  Expect = 4e-69
+ Identities = 152/160 (95%), Gaps = 0/160 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  238  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  297
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  298  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  357
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             ||||||||| || | |||||||| |||||||||||||||
+Sbjct  358  CGAAGCCATTAGGCTAAGGGCACGCCTGCCTGGGTGTCAC  397
+
+
+ Score = 62.1 bits (33),  Expect = 7e-12
+ Identities = 33/33 (100%), Gaps = 0/33 (0%)
+ Strand=Plus/Plus
+
+Query  125  CTAACAAACCCCGGCGCGGAATGCGCCAAGGAA  157
+            |||||||||||||||||||||||||||||||||
+Sbjct  131  CTAACAAACCCCGGCGCGGAATGCGCCAAGGAA  163
+
+
+>KX652254;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Harpalyce,s:Harpalyce_arborescens;
+Length=555
+
+ Score = 252 bits (136),  Expect = 4e-69
+ Identities = 154/163 (94%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  140  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  199
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  200  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  259
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||| ||  ||||||||| ||||||||||||| ||||
+Sbjct  260  CGAAGCCATTAGGCCGAGGGCACGCCTGCCTGGGTGTCGCACA  302
+
+
+>KX982513;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,g:Pimpinella,s:Pimpinella_major;
+Length=690
+
+ Score = 248 bits (134),  Expect = 5e-68
+ Identities = 166/181 (92%), Gaps = 3/181 (2%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || |||||||| ||||||||||| |||||||||||||||||||||||||||| |||||||
+Sbjct  279  AACGACTCTCGACAACGGATATCCCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  338
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  339  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  398
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCA  413
+             ||||||||| ||  ||||||||||||||||||||||||| ||   ||| | ||||||||
+Sbjct  399  CGAAGCCATTAGGCCGAGGGCACGTCTGCCTGGGTGTCACGCA---TCGACATGCCCCCA  455
+
+Query  414  A  414
+            |
+Sbjct  456  A  456
+
+
+>MH377862;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,g:Pimpinella,s:Pimpinella_major;
+Length=713
+
+ Score = 248 bits (134),  Expect = 5e-68
+ Identities = 166/181 (92%), Gaps = 3/181 (2%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || |||||||| ||||||||||| |||||||||||||||||||||||||||| |||||||
+Sbjct  310  AACGACTCTCGACAACGGATATCCCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  369
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  370  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  429
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCA  413
+             ||||||||| ||  ||||||||||||||||||||||||| ||   ||| | ||||||||
+Sbjct  430  CGAAGCCATTAGGCCGAGGGCACGTCTGCCTGGGTGTCACGCA---TCGACATGCCCCCA  486
+
+Query  414  A  414
+            |
+Sbjct  487  A  487
+
+
+>MK050087;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,g:Pimpinella,s:Pimpinella_major;
+Length=603
+
+ Score = 248 bits (134),  Expect = 5e-68
+ Identities = 166/181 (92%), Gaps = 3/181 (2%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || |||||||| ||||||||||| |||||||||||||||||||||||||||| |||||||
+Sbjct  222  AACGACTCTCGACAACGGATATCCCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  281
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  282  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  341
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCA  413
+             ||||||||| ||  ||||||||||||||||||||||||| ||   ||| | ||||||||
+Sbjct  342  CGAAGCCATTAGGCCGAGGGCACGTCTGCCTGGGTGTCACGCA---TCGACATGCCCCCA  398
+
+Query  414  A  414
+            |
+Sbjct  399  A  399
+
+
+>JX124498;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Leptolobium,s:Leptolobium_panamense;
+Length=722
+
+ Score = 246 bits (133),  Expect = 2e-67
+ Identities = 153/163 (94%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  253  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  312
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  313  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  372
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||  ||  ||||||||| ||||||||||||| ||||
+Sbjct  373  CGAAGCCATCAGGCCGAGGGCACGCCTGCCTGGGTGTCGCACA  415
+
+
+>KT833972;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=601
+
+ Score = 244 bits (132),  Expect = 6e-67
+ Identities = 152/162 (94%), Gaps = 0/162 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  185  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  244
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  245  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  304
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  305  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  346
+
+
+>KT833973;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=601
+
+ Score = 244 bits (132),  Expect = 6e-67
+ Identities = 152/162 (94%), Gaps = 0/162 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  185  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  244
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  245  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  304
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  305  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  346
+
+
+>KT833974;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=601
+
+ Score = 244 bits (132),  Expect = 6e-67
+ Identities = 152/162 (94%), Gaps = 0/162 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  185  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  244
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  245  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  304
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  305  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  346
+
+
+>KT833975;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=601
+
+ Score = 244 bits (132),  Expect = 6e-67
+ Identities = 152/162 (94%), Gaps = 0/162 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  185  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  244
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  245  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  304
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  305  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  346
+
+
+>AF467021;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Solori,s:Solori_robusta;
+Length=638
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  238  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  297
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  298  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  357
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACA  394
+             |||||| |  ||  ||||||||| ||||||||||||||||
+Sbjct  358  CGAAGCCGTGAGGCCGAGGGCACGCCTGCCTGGGTGTCACA  398
+
+
+>JF786889;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Miqueliopuntia,s:Miqueliopuntia_miquelii;
+Length=576
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 156/168 (93%), Gaps = 2/168 (1%)
+ Strand=Plus/Plus
+
+Query  228  TAGAA--TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGC  285
+            |||||  ||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  185  TAGAACGTAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGC  244
+
+Query  286  AAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAA  345
+             ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  245  GAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAA  304
+
+Query  346  GTTGCGCCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            |||||||| |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  305  GTTGCGCCCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  352
+
+
+>JF786893;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_dejecta;
+Length=625
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  237  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  296
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  297  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  356
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  357  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  397
+
+
+>JF786895;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_lutea;
+Length=578
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  193  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  252
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  253  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  312
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  313  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  353
+
+
+>JF786899;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_karwinskiana;
+Length=492
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  109  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  168
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  169  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  228
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  229  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  269
+
+
+>JF786900;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_lutea;
+Length=666
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  236  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  295
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  296  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  355
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  356  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  396
+
+
+>JF786957;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_macbridei;
+Length=577
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  193  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  252
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  253  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  312
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  313  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  353
+
+
+>JF786958;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_macbridei;
+Length=661
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  234  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  293
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  294  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  353
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  354  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  394
+
+
+>JF786965;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_megasperma;
+Length=580
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  193  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  252
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  253  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  312
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  313  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  353
+
+
+>JF786990;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_macbridei;
+Length=657
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  236  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  295
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  296  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  355
+
+Query  353  CTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  356  CCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  396
+
+
+>JF787030;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Tunilla,s:Tunilla_corrugata;
+Length=577
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 156/168 (93%), Gaps = 2/168 (1%)
+ Strand=Plus/Plus
+
+Query  228  TAGAA--TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGC  285
+            |||||  ||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  186  TAGAACGTAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGC  245
+
+Query  286  AAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAA  345
+             ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  246  GAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAA  305
+
+Query  346  GTTGCGCCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            |||||||| |||||| |  ||  ||||||||||||||||||| |||||
+Sbjct  306  GTTGCGCCCGAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  353
+
+
+>JX506446;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Solori,s:Solori_robusta;
+Length=637
+
+ Score = 243 bits (131),  Expect = 2e-66
+ Identities = 151/161 (94%), Gaps = 0/161 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||| ||| |||||||
+Sbjct  236  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGCAGCGAAATGCG  295
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  296  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  355
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACA  394
+             |||||| |  || |||||||||| ||||||||||||||||
+Sbjct  356  CGAAGCCGTGAGGCTGAGGGCACGCCTGCCTGGGTGTCACA  396
+
+
+>KU902491;tax=k:Viridiplantae,p:Streptophyta,o:Sapindales,f:Sapindaceae,g:Acer,s:Acer_yangbiense;
+Length=631
+
+ Score = 241 bits (130),  Expect = 8e-66
+ Identities = 165/182 (91%), Gaps = 1/182 (1%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  237  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  296
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  297  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  356
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCA  413
+              ||||| || ||  ||||||||| ||||||||||||||| ||  || ||||  ||| ||
+Sbjct  357  CCAAGCCGTTAGGCCGAGGGCACGCCTGCCTGGGTGTCACGCATCGTTGCCC-CCCCTCA  415
+
+Query  414  AA  415
+            ||
+Sbjct  416  AA  417
+
+
+>JF786894;tax=k:Viridiplantae,p:Streptophyta,o:Caryophyllales,f:Cactaceae,g:Opuntia,s:Opuntia_gaumeri;
+Length=578
+
+ Score = 237 bits (128),  Expect = 1e-64
+ Identities = 151/162 (93%), Gaps = 1/162 (1%)
+ Strand=Plus/Plus
+
+Query  233  TAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGC  292
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  193  TAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGC  252
+
+Query  293  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGC  352
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  253  GATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGC  312
+
+Query  353  CTGAA-GCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            | ||| ||| |  ||  ||||||||||||||||||| |||||
+Sbjct  313  CCGAAAGCCTTCCGGCCGAGGGCACGTCTGCCTGGGCGTCAC  354
+
+
+>HG004762;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Hypericaceae,g:Hypericum,s:Hypericum_silenoides;
+Length=694
+
+ Score = 235 bits (127),  Expect = 4e-64
+ Identities = 151/163 (93%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||| |||||| |||||||||||||||||||| |||||||
+Sbjct  258  AACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  317
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  318  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  377
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||   |||   |||||||||||||||||||||||||||
+Sbjct  378  CGAAGCCTCCTGGCCAAGGGCACGTCTGCCTGGGTGTCACACA  420
+
+
+>HG004769;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Hypericaceae,g:Hypericum,s:Hypericum_silenoides;
+Length=691
+
+ Score = 235 bits (127),  Expect = 4e-64
+ Identities = 151/163 (93%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||| |||||| |||||||||||||||||||| |||||||
+Sbjct  255  AACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  314
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  315  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  374
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||   |||   |||||||||||||||||||||||||||
+Sbjct  375  CGAAGCCTCCTGGCCAAGGGCACGTCTGCCTGGGTGTCACACA  417
+
+
+>HM010406;tax=k:Viridiplantae,p:Streptophyta,o:Santalales,f:Loranthaceae,g:Tripodanthus,s:Tripodanthus_belmirensis;
+Length=692
+
+ Score = 233 bits (126),  Expect = 1e-63
+ Identities = 150/162 (93%), Gaps = 0/162 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||| ||||||||||||||||||||||||||||||||||||||||||||| ||| |||||
+Sbjct  271  ATAACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGCAGCGAAATG  330
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||| |||||||||||||||||||||||||| |||||||| |||||||||||||||||
+Sbjct  331  CGATACCTGGTGTGAATTGCAGAATCCCGTGAATCATCGAGTCTTTGAACGCAAGTTGCG  390
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            || ||  ||||| ||||||||||||| ||||||||| |||||
+Sbjct  391  CCCGAGACCATTCGGTTGAGGGCACGCCTGCCTGGGCGTCAC  432
+
+
+>AF187084;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Leptolobium,s:Leptolobium_panamense;
+Length=413
+
+ Score = 231 bits (125),  Expect = 5e-63
+ Identities = 149/163 (91%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            |||||||||||||||||||||||||||||||    ||||||||||||| ||| |||||||
+Sbjct  6    AATGACTCTCGGCAACGGATATCTCGGCTCTNNNNTCGATGAAGAACGCAGCGAAATGCG  65
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  66   ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  125
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||||  ||  ||||||||| ||||||||||||| ||||
+Sbjct  126  CGAAGCCATCAGGCCGAGGGCACGCCTGCCTGGGTGTCGCACA  168
+
+
+>HG004761;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Hypericaceae,g:Hypericum,s:Hypericum_silenoides;
+Length=691
+
+ Score = 231 bits (125),  Expect = 5e-63
+ Identities = 150/163 (92%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||| |||||| |||||||||||||||||||| |||||||
+Sbjct  255  AACGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  314
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  315  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  374
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+             ||||||   |||   |||||||||||||||| ||||||||||
+Sbjct  375  CGAAGCCTCCTGGCCAAGGGCACGTCTGCCTGSGTGTCACACA  417
+
+
+>KY661726;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=617
+
+ Score = 231 bits (125),  Expect = 5e-63
+ Identities = 150/162 (93%), Gaps = 1/162 (1%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||| |||  ||||||
+Sbjct  219  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGCAGC-GAATGCG  277
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  278  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  337
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  338  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  379
+
+
+>HQ331424;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Zingiberales,f:Musaceae,g:Musa,s:Musa_banksii_x_Musa_schizocarpa;
+Length=586
+
+ Score = 230 bits (124),  Expect = 2e-62
+ Identities = 146/157 (93%), Gaps = 0/157 (0%)
+ Strand=Plus/Plus
+
+Query  237  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATA  296
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  215  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATA  274
+
+Query  297  CTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGA  356
+            | ||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||
+Sbjct  275  CCTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGA  334
+
+Query  357  AGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             |||||  || | |||||||| ||||||||| |||||
+Sbjct  335  GGCCATCCGGCTAAGGGCACGCCTGCCTGGGCGTCAC  371
+
+
+>KU883492;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales,f:Poaceae,g:Calamagrostis,s:Calamagrostis_varia;
+Length=607
+
+ Score = 230 bits (124),  Expect = 2e-62
+ Identities = 146/157 (93%), Gaps = 0/157 (0%)
+ Strand=Plus/Plus
+
+Query  237  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATA  296
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  227  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATA  286
+
+Query  297  CTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGA  356
+            | |||||||||||||||||||||| |||||||||||| ||||||||||||||||||| ||
+Sbjct  287  CCTGGTGTGAATTGCAGAATCCCGCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGA  346
+
+Query  357  AGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             |||||| ||  ||||||||| ||||||||| |||||
+Sbjct  347  GGCCATTCGGCCGAGGGCACGCCTGCCTGGGCGTCAC  383
+
+
+>KX873017;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales,f:Poaceae,g:Calamagrostis,s:Calamagrostis_varia;
+Length=942
+
+ Score = 230 bits (124),  Expect = 2e-62
+ Identities = 146/157 (93%), Gaps = 0/157 (0%)
+ Strand=Plus/Plus
+
+Query  237  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATA  296
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  510  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATA  569
+
+Query  297  CTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGA  356
+            | |||||||||||||||||||||| |||||||||||| ||||||||||||||||||| ||
+Sbjct  570  CCTGGTGTGAATTGCAGAATCCCGCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGA  629
+
+Query  357  AGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             |||||| ||  ||||||||| ||||||||| |||||
+Sbjct  630  GGCCATTCGGCCGAGGGCACGCCTGCCTGGGCGTCAC  666
+
+
+>KX873018;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales,f:Poaceae,g:Calamagrostis,s:Calamagrostis_varia;
+Length=931
+
+ Score = 230 bits (124),  Expect = 2e-62
+ Identities = 146/157 (93%), Gaps = 0/157 (0%)
+ Strand=Plus/Plus
+
+Query  237  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATA  296
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  498  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATA  557
+
+Query  297  CTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGA  356
+            | |||||||||||||||||||||| |||||||||||| ||||||||||||||||||| ||
+Sbjct  558  CCTGGTGTGAATTGCAGAATCCCGCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGA  617
+
+Query  357  AGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             |||||| ||  ||||||||| ||||||||| |||||
+Sbjct  618  GGCCATTCGGCCGAGGGCACGCCTGCCTGGGCGTCAC  654
+
+
+>KX873019;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales,f:Poaceae,g:Calamagrostis,s:Calamagrostis_varia;
+Length=939
+
+ Score = 230 bits (124),  Expect = 2e-62
+ Identities = 146/157 (93%), Gaps = 0/157 (0%)
+ Strand=Plus/Plus
+
+Query  237  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATA  296
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  510  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATA  569
+
+Query  297  CTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGA  356
+            | |||||||||||||||||||||| |||||||||||| ||||||||||||||||||| ||
+Sbjct  570  CCTGGTGTGAATTGCAGAATCCCGCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGA  629
+
+Query  357  AGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             |||||| ||  ||||||||| ||||||||| |||||
+Sbjct  630  GGCCATTCGGCCGAGGGCACGCCTGCCTGGGCGTCAC  666
+
+
+>HM010957;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Asparagales,f:Amaryllidaceae,g:Sternbergia,s:Sternbergia_vernalis;
+Length=749
+
+ Score = 228 bits (123),  Expect = 6e-62
+ Identities = 147/159 (92%), Gaps = 0/159 (0%)
+ Strand=Plus/Plus
+
+Query  235  ATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGA  294
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||| ||||||||
+Sbjct  326  ATGACTCTCGGCAACGGATATCTTGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGA  385
+
+Query  295  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCT  354
+            ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| 
+Sbjct  386  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCC  445
+
+Query  355  GAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            || || || |||   |||||||| ||||||||| |||||
+Sbjct  446  GAGGCTATCTGGCCAAGGGCACGCCTGCCTGGGCGTCAC  484
+
+
+>HM010961;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Asparagales,f:Amaryllidaceae,g:Sternbergia,s:Sternbergia_clusiana;
+Length=754
+
+ Score = 228 bits (123),  Expect = 6e-62
+ Identities = 147/159 (92%), Gaps = 0/159 (0%)
+ Strand=Plus/Plus
+
+Query  235  ATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGA  294
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||| ||||||||
+Sbjct  326  ATGACTCTCGGCAACGGATATCTTGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGA  385
+
+Query  295  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCT  354
+            ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| 
+Sbjct  386  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCC  445
+
+Query  355  GAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            || || || |||   |||||||| ||||||||| |||||
+Sbjct  446  GAGGCTATCTGGCCAAGGGCACGCCTGCCTGGGCGTCAC  484
+
+
+>KY661725;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=617
+
+ Score = 226 bits (122),  Expect = 2e-61
+ Identities = 148/162 (91%), Gaps = 1/162 (1%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||| |||  ||||||
+Sbjct  219  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGCAGCG-AATGCG  277
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            ||||||||||||||||||||||| ||||||||||| |||| |||||||||||||||||||
+Sbjct  278  ATACTTGGTGTGAATTGCAGAATYCCGTGAACCATYGAGTYTTTGAACGCAAGTTGCGCC  337
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  338  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  379
+
+
+>HM010956;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Asparagales,f:Amaryllidaceae,g:Sternbergia,s:Sternbergia_candida;
+Length=735
+
+ Score = 222 bits (120),  Expect = 3e-60
+ Identities = 146/159 (92%), Gaps = 0/159 (0%)
+ Strand=Plus/Plus
+
+Query  235  ATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGA  294
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||| ||||||||
+Sbjct  326  ATGACTCTCGGCAACGGATATCTTGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGA  385
+
+Query  295  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCT  354
+            ||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||| 
+Sbjct  386  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGCCTTTGAACGCAAGTTGCGCCC  445
+
+Query  355  GAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            || || || |||   |||||||| ||||||||| |||||
+Sbjct  446  GAGGCTATCTGGCCAAGGGCACGCCTGCCTGGGCGTCAC  484
+
+
+>JX464296;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Asparagales,f:Amaryllidaceae,g:Sternbergia,s:Sternbergia_candida;
+Length=725
+
+ Score = 222 bits (120),  Expect = 3e-60
+ Identities = 146/159 (92%), Gaps = 0/159 (0%)
+ Strand=Plus/Plus
+
+Query  235  ATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGA  294
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||| ||||||||
+Sbjct  289  ATGACTCTCGGCAACGGATATCTTGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGA  348
+
+Query  295  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCT  354
+            ||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||| 
+Sbjct  349  TACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGCCTTTGAACGCAAGTTGCGCCC  408
+
+Query  355  GAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+            || || || |||   |||||||| ||||||||| |||||
+Sbjct  409  GAGGCTATCTGGCCAAGGGCACGCCTGCCTGGGCGTCAC  447
+
+
+>KF718383;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Sorbus,s:Sorbus_chamaemespilus;
+Length=388
+
+ Score = 207 bits (112),  Expect = 8e-56
+ Identities = 130/139 (94%), Gaps = 0/139 (0%)
+ Strand=Plus/Plus
+
+Query  257  TCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTTGGTGTGAATTGCAGAAT  316
+            ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  1    TCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATACTTGGTGTGAATTGCAGAAT  60
+
+Query  317  CCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGCCATTTGGTTGAGGGCAC  376
+            ||||||||||||||||| ||||||||||||||||||| |||||| || ||  ||||||||
+Sbjct  61   CCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCGTTAGGCCGAGGGCAC  120
+
+Query  377  GTCTGCCTGGGTGTCACAC  395
+            | ||||||||| |||||||
+Sbjct  121  GCCTGCCTGGGCGTCACAC  139
+
+
+>HM014437;tax=k:Viridiplantae,p:Streptophyta,o:Solanales,f:Convolvulaceae,g:Ipomoea,s:Ipomoea_x_sloteri;
+Length=324
+
+ Score = 193 bits (104),  Expect = 2e-51
+ Identities = 120/128 (94%), Gaps = 0/128 (0%)
+ Strand=Plus/Plus
+
+Query  266  GCATCGATGAAGAACGTAGCAAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAAC  325
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GCATCGATGAAGAACGTAGCGAAATGCGATACTTGGTGTGAATTGCAGAATCCCGTGAAC  60
+
+Query  326  CATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTG  385
+            |||||||| ||||||||||||||||||| |||||| || ||  |||||||||||||||||
+Sbjct  61   CATCGAGTCTTTGAACGCAAGTTGCGCCCGAAGCCGTTAGGCCGAGGGCACGTCTGCCTG  120
+
+Query  386  GGTGTCAC  393
+            || |||||
+Sbjct  121  GGCGTCAC  128
+
+
+>KC779788;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Galactia,s:Galactia_striata;
+Length=419
+
+ Score = 84.2 bits (45),  Expect = 1e-18
+ Identities = 47/48 (98%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACG  281
+            ||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  372  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACG  419
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 33290190
+
+
+  Database: 100.fa
+    Posted date:  Dec 1, 2023  4:58 PM
+  Number of letters in database: 60,830
+  Number of sequences in database:  100
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

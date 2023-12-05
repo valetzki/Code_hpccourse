@@ -1,0 +1,268 @@
+BLASTN 2.12.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: 10.fa
+           10 sequences; 6,940 total letters
+
+
+
+Query= MK066680;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,
+f:Linaceae,g:Linum,s:Linum_alpinum;
+
+Length=580
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+MK066680;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Lina...  1072    0.0  
+LC213371;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-75
+KX057883;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,...  268     4e-75
+MH377862;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,...  248     6e-69
+MK050087;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,...  248     6e-69
+KY661726;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  231     6e-64
+KX873018;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales...  230     2e-63
+KX873019;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales...  230     2e-63
+KY661725;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,...  226     3e-62
+
+
+>MK066680;tax=k:Viridiplantae,p:Streptophyta,o:Malpighiales,f:Linaceae,g:Linum,s:Linum_alpinum;
+Length=580
+
+ Score = 1072 bits (580),  Expect = 0.0
+ Identities = 580/580 (100%), Gaps = 0/580 (0%)
+ Strand=Plus/Plus
+
+Query  1    AATGACCAGCGAACTTGTTGTTAAATGCGGGGGAGGCTGATGTTTGGTGTGCCCTAGGTC  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    AATGACCAGCGAACTTGTTGTTAAATGCGGGGGAGGCTGATGTTTGGTGTGCCCTAGGTC  60
+
+Query  61   CACCACGCGAAGGCCTGCCTCGCTCGGCGGGGGTTTGACCACCATGTCATGCCTCCGCCA  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CACCACGCGAAGGCCTGCCTCGCTCGGCGGGGGTTTGACCACCATGTCATGCCTCCGCCA  120
+
+Query  121  CAAACTAACAAACCCCGGCGCGGAATGCGCCAAGGAATACTACGAGTGACGACCCGTCAT  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  CAAACTAACAAACCCCGGCGCGGAATGCGCCAAGGAATACTACGAGTGACGACCCGTCAT  180
+
+Query  181  GTGCCCGGTCACGGTGTGCAGGATGGAGCGACCCACCAACTTTTAAATAGAATAATGACT  240
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  181  GTGCCCGGTCACGGTGTGCAGGATGGAGCGACCCACCAACTTTTAAATAGAATAATGACT  240
+
+Query  241  CTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTTG  300
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  241  CTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATACTTG  300
+
+Query  301  GTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGCC  360
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  301  GTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGAAGCC  360
+
+Query  361  ATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCAAAATTGG  420
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  361  ATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCAAAATTGG  420
+
+Query  421  GAAGGTGCGGATTCTGGCCTCCCAGTGGCTCTAAGTAGCCTATCGGATGGCCGAAATGAA  480
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421  GAAGGTGCGGATTCTGGCCTCCCAGTGGCTCTAAGTAGCCTATCGGATGGCCGAAATGAA  480
+
+Query  481  AGTCGTCGGCAAGAGACGCCACGGTGAGCTGTGGTTGAAACGACACTATGGTCTTTTAGC  540
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  481  AGTCGTCGGCAAGAGACGCCACGGTGAGCTGTGGTTGAAACGACACTATGGTCTTTTAGC  540
+
+Query  541  CGTGGTTGCTCCCTTGGCCGACGAAATTACGATGGACCAT  580
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  CGTGGTTGCTCCCTTGGCCGACGAAATTACGATGGACCAT  580
+
+
+>LC213371;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Oxytropis,s:Oxytropis_jacquinii;
+Length=603
+
+ Score = 268 bits (145),  Expect = 4e-75
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  232  ATAATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATG  291
+            |||||||||||||||||||||||||| |||||| |||||||||||||||||||| |||||
+Sbjct  228  ATAATGACTCTCGGCAACGGATATCTAGGCTCTTGCATCGATGAAGAACGTAGCGAAATG  287
+
+Query  292  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCG  351
+            |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+Sbjct  288  CGATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCG  347
+
+Query  352  CCTGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACA  394
+            || ||||||||||||||||||||||||||||||||| ||||||
+Sbjct  348  CCCGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGCGTCACA  390
+
+
+>KX057883;tax=k:Viridiplantae,p:Streptophyta,o:Fabales,f:Fabaceae,g:Indigofera,s:Indigofera_suffruticosa;
+Length=707
+
+ Score = 268 bits (145),  Expect = 4e-75
+ Identities = 157/163 (96%), Gaps = 0/163 (0%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            ||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||
+Sbjct  306  AATGACTCTCGGCAACGGATATCTCGGCTCTTGCATCGATGAAGAACGTAGCGAAATGCG  365
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  366  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  425
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACA  396
+            |||||||||| ||||||||||||| |||||||||||||| |||
+Sbjct  426  TGAAGCCATTAGGTTGAGGGCACGCCTGCCTGGGTGTCAAACA  468
+
+
+>MH377862;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,g:Pimpinella,s:Pimpinella_major;
+Length=713
+
+ Score = 248 bits (134),  Expect = 6e-69
+ Identities = 166/181 (92%), Gaps = 3/181 (2%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || |||||||| ||||||||||| |||||||||||||||||||||||||||| |||||||
+Sbjct  310  AACGACTCTCGACAACGGATATCCCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  369
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  370  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  429
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCA  413
+             ||||||||| ||  ||||||||||||||||||||||||| ||   ||| | ||||||||
+Sbjct  430  CGAAGCCATTAGGCCGAGGGCACGTCTGCCTGGGTGTCACGCA---TCGACATGCCCCCA  486
+
+Query  414  A  414
+            |
+Sbjct  487  A  487
+
+
+>MK050087;tax=k:Viridiplantae,p:Streptophyta,o:Apiales,f:Apiaceae,g:Pimpinella,s:Pimpinella_major;
+Length=603
+
+ Score = 248 bits (134),  Expect = 6e-69
+ Identities = 166/181 (92%), Gaps = 3/181 (2%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || |||||||| ||||||||||| |||||||||||||||||||||||||||| |||||||
+Sbjct  222  AACGACTCTCGACAACGGATATCCCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCG  281
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  282  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  341
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACACAAAGTCGCCCTGCCCCCA  413
+             ||||||||| ||  ||||||||||||||||||||||||| ||   ||| | ||||||||
+Sbjct  342  CGAAGCCATTAGGCCGAGGGCACGTCTGCCTGGGTGTCACGCA---TCGACATGCCCCCA  398
+
+Query  414  A  414
+            |
+Sbjct  399  A  399
+
+
+>KY661726;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=617
+
+ Score = 231 bits (125),  Expect = 6e-64
+ Identities = 150/162 (93%), Gaps = 1/162 (1%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||| |||  ||||||
+Sbjct  219  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGCAGC-GAATGCG  277
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  278  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTCTTTGAACGCAAGTTGCGCC  337
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  338  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  379
+
+
+>KX873018;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales,f:Poaceae,g:Calamagrostis,s:Calamagrostis_varia;
+Length=931
+
+ Score = 230 bits (124),  Expect = 2e-63
+ Identities = 146/157 (93%), Gaps = 0/157 (0%)
+ Strand=Plus/Plus
+
+Query  237  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATA  296
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  498  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATA  557
+
+Query  297  CTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGA  356
+            | |||||||||||||||||||||| |||||||||||| ||||||||||||||||||| ||
+Sbjct  558  CCTGGTGTGAATTGCAGAATCCCGCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGA  617
+
+Query  357  AGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             |||||| ||  ||||||||| ||||||||| |||||
+Sbjct  618  GGCCATTCGGCCGAGGGCACGCCTGCCTGGGCGTCAC  654
+
+
+>KX873019;tax=k:Viridiplantae,p:Streptophyta,c:Liliopsida,o:Poales,f:Poaceae,g:Calamagrostis,s:Calamagrostis_varia;
+Length=939
+
+ Score = 230 bits (124),  Expect = 2e-63
+ Identities = 146/157 (93%), Gaps = 0/157 (0%)
+ Strand=Plus/Plus
+
+Query  237  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCGATA  296
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  510  GACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCGAAATGCGATA  569
+
+Query  297  CTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCCTGA  356
+            | |||||||||||||||||||||| |||||||||||| ||||||||||||||||||| ||
+Sbjct  570  CCTGGTGTGAATTGCAGAATCCCGCGAACCATCGAGTCTTTGAACGCAAGTTGCGCCCGA  629
+
+Query  357  AGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCAC  393
+             |||||| ||  ||||||||| ||||||||| |||||
+Sbjct  630  GGCCATTCGGCCGAGGGCACGCCTGCCTGGGCGTCAC  666
+
+
+>KY661725;tax=k:Viridiplantae,p:Streptophyta,o:Rosales,f:Rosaceae,g:Amelanchier,s:Amelanchier_ovalis;
+Length=617
+
+ Score = 226 bits (122),  Expect = 3e-62
+ Identities = 148/162 (91%), Gaps = 1/162 (1%)
+ Strand=Plus/Plus
+
+Query  234  AATGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGTAGCAAAATGCG  293
+            || ||||||||||||||||||||||||||||||||||||||||||||| |||  ||||||
+Sbjct  219  AACGACTCTCGGCAACGGATATCTCGGCTCTCGCATCGATGAAGAACGCAGCG-AATGCG  277
+
+Query  294  ATACTTGGTGTGAATTGCAGAATCCCGTGAACCATCGAGTTTTTGAACGCAAGTTGCGCC  353
+            ||||||||||||||||||||||| ||||||||||| |||| |||||||||||||||||||
+Sbjct  278  ATACTTGGTGTGAATTGCAGAATYCCGTGAACCATYGAGTYTTTGAACGCAAGTTGCGCC  337
+
+Query  354  TGAAGCCATTTGGTTGAGGGCACGTCTGCCTGGGTGTCACAC  395
+             |||||| || ||  ||||||||| ||||||||| |||||||
+Sbjct  338  CGAAGCCTTTAGGCCGAGGGCACGCCTGCCTGGGCGTCACAC  379
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3848800
+
+
+  Database: 10.fa
+    Posted date:  Dec 1, 2023  4:55 PM
+  Number of letters in database: 6,940
+  Number of sequences in database:  10
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

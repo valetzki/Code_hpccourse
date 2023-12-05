@@ -1,0 +1,25 @@
+blast against 10 complete
+
+real	0m0,122s
+user	0m0,046s
+sys	0m0,039s
+blast against 100 complete
+
+real	0m0,148s
+user	0m0,067s
+sys	0m0,036s
+blast against 1000 complete
+
+real	0m0,300s
+user	0m0,217s
+sys	0m0,044s
+blast against 10000 complete
+
+real	0m1,035s
+user	0m0,897s
+sys	0m0,107s
+blast against 100000 complete
+
+real	0m9,148s
+user	0m8,012s
+sys	0m1,095s

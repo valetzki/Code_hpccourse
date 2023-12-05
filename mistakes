@@ -1,0 +1,16 @@
+for i in $(ls /LETHE/COURSES/data/bac_genomes/);
+do 
+    adress=pwd
+
+    if [ $adress == "/LETHE/COURSES/data/bac_genomes/GCF_025170505.2"]
+    then 
+    k=1
+    cp $adress /LETHE/COURSES/hpc_course/valentina/bacvale/
+    else 
+    if [ k == 1]
+    then 
+    cp $adress /LETHE/COURSES/hpc_course/valentina/bacvale/
+    fi
+    echo "done"
+
+done

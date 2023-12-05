@@ -1,0 +1,82 @@
+
+blast
+threads 10
+database 1
+
+real	0m0,109s
+user	0m0,051s
+sys	0m0,032s
+
+blast
+threads 100
+database 1
+
+real	0m0,136s
+user	0m0,064s
+sys	0m0,040s
+
+blast
+threads 1000
+database 1
+
+real	0m0,241s
+user	0m0,175s
+sys	0m0,033s
+
+blast
+threads 10000
+database 1
+
+real	0m0,261s
+user	0m0,178s
+sys	0m0,045s
+
+blast
+threads 100000
+database 1
+
+real	0m0,789s
+user	0m1,182s
+sys	0m0,184s
+
+blast
+threads 10
+database 10
+
+real	0m0,098s
+user	0m0,193s
+sys	0m0,037s
+
+blast
+threads 100
+database 10
+
+real	0m0,117s
+user	0m0,338s
+sys	0m0,039s
+
+blast
+threads 1000
+database 10
+
+real	0m0,186s
+user	0m0,474s
+sys	0m0,047s
+
+blast
+threads 10000
+database 10
+
+real	0m0,199s
+user	0m0,528s
+sys	0m0,055s
+
+blast
+threads 100000
+database 10
+
+real	0m0,330s
+user	0m2,973s
+sys	0m0,346s
+chmod: Zugriff auf '/LETHE/COURSES/hpc_course/aliscale_speeds/blast_speeds_valentina.txt' nicht möglich: Datei oder Verzeichnis nicht gefunden
+rm: das Entfernen von '/LETHE/COURSES/hpc_course/aliscale_speeds/blast_speeds_valentina.txt' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
