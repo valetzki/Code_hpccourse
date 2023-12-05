@@ -10,5 +10,3 @@
 # put first file execution in background with & to run them parallelly
 time /LETHE/COURSES/hpc_course/valentina/Challenge1_Valentina/challenge1gff.sh &
 time /LETHE/COURSES/hpc_course/valentina/Challenge1_Valentina/challenge1fasta.sh
-
-exit 0

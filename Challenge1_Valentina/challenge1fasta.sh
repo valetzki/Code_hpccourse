@@ -20,8 +20,6 @@ do
     # grab corrrect directories and copy into fasta
     cp /LETHE/COURSES/data/bac_genomes/refseq/bacteria/$line/*.gff.gz /LETHE/COURSES/hpc_course/valentina/Challenge1_Valentina/fasta/
 
-
-
 done < $file
 
 # track progress

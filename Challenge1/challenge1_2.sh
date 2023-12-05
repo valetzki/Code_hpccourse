@@ -14,7 +14,6 @@ mkdir /LETHE/COURSES/hpc_course/valentina/gff
 
 
 # define file URL
-# purpose of k is to keep track of progress
 file=/LETHE/COURSES/hpc_course/valentina/Challenge1/valeslist.txt
 
 # loop through all lines of file (valeslist), which includes the correct bacteria folder names 
