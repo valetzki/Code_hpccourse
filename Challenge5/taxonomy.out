@@ -1,0 +1,1624 @@
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:28:16 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=272561&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:28:16 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 272561 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:29:29 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=195102&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:29:29 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 195102 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:30:48 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=585396&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:30:48 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 585396 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:33:03 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=212042&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:33:02 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 212042 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:33:44 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=379731&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:33:43 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 379731 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:37:12 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=425104&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:37:11 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 425104 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:39:14 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=521006&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:39:13 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 521006 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:39:28 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=508767&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:39:27 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 508767 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:39:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=546414&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:39:53 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 546414 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:39:58 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=546414&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:39:58 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 546414 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+LAST ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:40:33 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=480119&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:40:32 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 480119 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:42:33 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=521045&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:42:33 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 521045 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:43:33 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=574556&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:43:32 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 574556 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:44:05 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=479436&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:44:04 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 479436 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:45:04 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=264731&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:45:03 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 264731 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:45:51 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=672161&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:45:51 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 672161 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:46:41 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=405948&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:46:41 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 405948 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:47:59 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=759350&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:47:58 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 759350 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:49:18 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=553174&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:49:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 553174 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:51:29 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=469602&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:51:29 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 469602 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:52:22 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=340186&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:52:21 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 340186 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 502
+ERROR: curl command failed ( Do 7. Dez 17:52:58 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=536019&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 502 Bad Gateway
+WARNING: FAILURE ( Do 7. Dez 17:52:58 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 536019 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 502
+ERROR: curl command failed ( Do 7. Dez 17:53:04 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=643561&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 502 Bad Gateway
+WARNING: FAILURE ( Do 7. Dez 17:53:04 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 643561 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:57:15 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=216432&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:57:14 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 216432 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:57:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=926569&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:57:55 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 926569 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 17:59:05 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=862908&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 17:59:05 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 862908 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:00:28 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=945712&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:00:28 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 945712 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:05:07 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=871963&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:05:06 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 871963 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:10:01 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1212765&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:10:01 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1212765 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:10:59 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=983917&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:10:59 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 983917 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:11:18 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1080230&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:11:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1080230 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:12:45 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1239881&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:12:45 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1239881 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:14:30 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=85962&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:14:29 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 85962 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:17:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1094497&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:17:54 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1094497 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:18:39 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=745310&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:18:38 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 745310 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:20:18 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1074919&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:20:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1074919 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:21:11 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=980422&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:21:11 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 980422 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:21:50 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1211579&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:21:50 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1211579 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:22:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=754521&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:22:53 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 754521 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:23:13 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1197719&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:23:12 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1197719 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:23:36 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1076934&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:23:36 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1076934 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:24:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2902295&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:24:54 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2902295 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:25:56 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1406864&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:25:56 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1406864 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:26:28 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1124958&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:26:27 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1124958 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:30:52 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1449088&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:30:51 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1449088 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:33:48 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2970906&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:33:47 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2970906 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:39:08 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=149539&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:39:08 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 149539 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:39:36 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=588&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:39:36 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 588 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:41:39 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2325&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:41:39 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2325 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:41:59 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=558173&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:41:58 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 558173 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:43:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1494608&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:43:53 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1494608 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:44:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1248727&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:44:52 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1248727 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:45:45 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1296536&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:45:44 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1296536 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:49:58 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1405&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:49:58 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1405 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:51:08 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=119857&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:51:07 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 119857 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:51:12 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=177416&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:51:12 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 177416 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:52:08 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1224162&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:52:08 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1224162 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:57:56 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1396&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:57:56 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1396 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 18:58:14 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=83333&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 18:58:13 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 83333 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:06:54 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=732&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:06:54 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 732 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:10:06 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1528099&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:10:05 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1528099 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:10:14 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=214092&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:10:14 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 214092 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:10:51 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1719&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:10:51 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1719 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:11:26 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1136941&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:11:26 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1136941 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:12:31 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=696485&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:12:30 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 696485 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:17:05 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1334193&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:17:05 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1334193 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:18:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1242245&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:18:55 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1242245 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:19:13 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=197&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:19:13 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 197 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:25:15 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2104&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:25:15 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2104 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:25:24 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=624&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:25:24 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 624 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:28:03 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1502&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:28:03 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1502 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:30:38 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=520&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:30:38 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 520 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:31:04 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=520&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:31:03 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 520 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:32:22 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1280&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:32:22 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1280 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:36:02 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1608473&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:36:02 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1608473 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:37:03 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1770&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:37:02 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1770 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:38:16 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:38:15 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:39:12 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1703964&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:39:12 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1703964 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:40:23 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:40:23 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:40:46 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=384&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:40:46 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 384 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:41:04 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1191459&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:41:03 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1191459 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:43:32 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=572545&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:43:31 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 572545 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:45:46 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=573&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:45:45 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 573 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:52:09 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1773&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:52:09 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1773 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:53:22 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1850246&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:53:21 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1850246 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:54:25 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=470&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:54:24 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 470 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 19:56:10 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=754502&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 19:56:09 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 754502 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:03:36 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=573&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:03:36 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 573 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:06:48 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1719&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:06:47 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1719 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:07:45 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=28131&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:07:45 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 28131 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:09:57 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1357916&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:09:56 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1357916 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:11:19 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=520&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:11:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 520 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:11:33 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=520&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:11:33 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 520 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:16:33 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1280&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:16:33 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1280 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:17:57 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1936003&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:17:56 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1936003 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:21:58 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1839798&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:21:58 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1839798 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:23:27 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1807790&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:23:27 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1807790 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:28:12 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=149539&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:28:11 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 149539 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:34:28 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=959&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:34:27 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 959 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 502
+ERROR: curl command failed ( Do 7. Dez 20:39:22 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=553&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 502 Bad Gateway
+WARNING: FAILURE ( Do 7. Dez 20:39:21 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 553 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:41:11 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=33932&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:41:10 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 33932 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:44:29 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=794846&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:44:28 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 794846 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:44:45 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1396&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:44:45 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1396 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:46:50 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=13373&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:46:49 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 13373 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:53:07 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1402&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:53:06 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1402 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 20:55:29 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 20:55:29 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:02:56 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1685&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:02:55 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1685 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:06:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=520&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:06:53 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 520 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:08:24 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=340&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:08:23 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 340 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:11:45 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1758189&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:11:45 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1758189 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:12:33 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1496&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:12:33 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1496 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 502
+ERROR: curl command failed ( Do 7. Dez 21:15:54 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=676&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 502 Bad Gateway
+WARNING: FAILURE ( Do 7. Dez 21:15:53 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 676 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 502
+ERROR: curl command failed ( Do 7. Dez 21:16:35 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2080419&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 502 Bad Gateway
+WARNING: FAILURE ( Do 7. Dez 21:16:35 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2080419 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:27:17 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1428&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:27:16 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1428 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:29:30 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=584&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:29:29 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 584 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:33:19 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1280&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:33:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1280 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:35:50 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=336810&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:35:49 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 336810 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:37:17 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1247&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:37:17 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1247 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:40:01 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=13689&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:40:00 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 13689 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:51:47 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=317577&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:51:47 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 317577 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:56:30 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1296536&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:56:29 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1296536 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 21:59:21 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1423&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:59:20 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1423 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:00:00 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=57975&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 21:59:59 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 57975 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:05:17 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=149539&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:05:17 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 149539 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:11:30 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:11:30 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:15:46 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1513890&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:15:45 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1513890 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:20:56 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=470&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:20:55 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 470 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:40:36 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=573&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:40:36 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 573 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:52:42 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=520&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:52:42 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 520 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:55:00 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2552945&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:54:59 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2552945 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 22:59:12 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2583588&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 22:59:12 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2583588 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 23:05:35 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=28901&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 23:05:35 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 28901 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 23:13:37 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2589967&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 23:13:37 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2589967 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 23:24:22 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1246&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 23:24:22 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1246 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 23:41:52 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=83656&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 23:41:52 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 83656 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 23:44:06 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2219224&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 23:44:06 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2219224 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 23:49:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1423&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 23:49:53 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1423 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Do 7. Dez 23:54:51 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=287&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Do 7. Dez 23:54:51 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 287 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 01:14:34 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2764325&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 01:14:33 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2764325 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 01:36:33 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=487&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 01:36:33 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 487 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 01:46:18 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=731&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 01:46:17 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 731 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:01:35 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=38301&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:01:35 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 38301 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:03:32 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1282&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:03:31 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1282 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:07:36 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:07:36 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:10:03 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1185650&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:10:03 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1185650 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:12:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:12:54 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:15:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=239935&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:15:52 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 239935 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:24:01 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=550&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:24:01 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 550 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:24:24 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=29518&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:24:23 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 29518 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:27:25 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2821539&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:27:25 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2821539 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:29:50 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2100821&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:29:49 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2100821 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:34:03 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=77038&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:34:02 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 77038 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:36:19 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=400061&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:36:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 400061 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:36:57 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=239935&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:36:56 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 239935 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:38:37 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1496&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:38:36 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1496 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:52:48 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=302911&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:52:47 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 302911 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:57:21 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=747&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:57:21 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 747 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 02:57:54 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=373&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 02:57:54 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 373 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:01:39 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1772&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:01:39 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1772 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:02:28 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=853&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:02:27 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 853 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:06:42 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=29391&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:06:41 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 29391 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:07:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=492670&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:07:55 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 492670 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:08:18 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2875962&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:08:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2875962 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:08:49 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=492670&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:08:49 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 492670 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:15:36 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2883106&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:15:35 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2883106 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:15:59 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2883107&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:15:59 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2883107 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:17:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:17:55 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:18:25 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=44454&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:18:25 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 44454 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:18:29 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=44454&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:18:28 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 44454 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+LAST ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:21:31 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2890321&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:21:30 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2890321 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:26:05 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2781736&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:26:04 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2781736 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:27:16 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=40324&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:27:16 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 40324 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:32:41 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=260678&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:32:41 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 260678 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:33:56 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2907154&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:33:56 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2907154 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:34:54 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2130&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:34:54 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2130 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:35:48 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1280&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:35:47 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1280 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:37:05 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1311&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:37:05 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1311 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 03:47:18 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1351&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 03:47:18 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1351 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:00:23 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:00:22 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:04:05 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1280&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:04:04 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1280 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:04:11 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1280&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:04:10 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1280 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:07:06 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2883100&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:07:06 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2883100 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:09:43 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1776384&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:09:43 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1776384 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:12:14 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=871203&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:12:14 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 871203 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:12:32 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2932253&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:12:31 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2932253 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:14:16 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=210&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:14:16 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 210 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:16:01 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=292800&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:16:01 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 292800 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:20:40 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1664860&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:20:40 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1664860 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:21:50 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2785123&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:21:49 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2785123 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:21:54 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=145391&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:21:54 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 145391 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:22:10 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2702&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:22:10 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2702 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:36:17 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2822843&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:36:17 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2822843 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:45:53 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=573&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:45:52 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 573 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:48:30 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=687&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:48:30 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 687 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:49:38 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1270&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:49:38 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1270 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:50:25 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=28901&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:50:24 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 28901 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:51:04 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=293387&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:51:04 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 293387 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 04:53:50 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 04:53:50 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 05:02:02 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=2895489&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 05:02:02 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 2895489 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 05:06:51 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=562&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 05:06:50 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 562 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 05:13:55 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=1597&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 05:13:55 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 1597 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 05:26:08 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=728&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 05:26:07 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 728 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
+curl: (22) The requested URL returned error: 400
+ERROR: curl command failed ( Fr 8. Dez 05:56:05 CET 2023 ) with: 22
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi -d db=taxonomy&id=113107&rettype=full&retmode=xml&tool=edirect&edirect=14.6&edirect_os=Linux&email=ra68kun%40LMBIDP1-LXKEL01.it1.bio.lmu.de
+HTTP/1.1 400 Bad Request
+WARNING: FAILURE ( Fr 8. Dez 05:56:04 CET 2023 )
+nquire -url https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ efetch.fcgi -db taxonomy -id 113107 -rettype full -retmode xml -tool edirect -edirect 14.6 -edirect_os Linux -email ra68kun@LMBIDP1-LXKEL01.it1.bio.lmu.de
+EMPTY RESULT
+SECOND ATTEMPT
